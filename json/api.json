@@ -1,0 +1,37 @@
+{
+    "botsArray": 
+    [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "email": "john@example.com",
+        "profilePic": "https://placekitten.com/200/200",
+        "Status": "Active"
+      },
+      {
+        "id": 2,
+        "name": "Ali Haider",
+        "age": 28,
+        "email": "jane@example.com",
+        "profilePic": "https://picsum.photos/200/200",
+        "Status":"lastseen - 2023-12-01, 10:00"
+      },
+      {
+        "id": 3,
+        "name": "Muneeb",
+        "age": 35,
+        "email": "alice@example.com",
+        "profilePic": "https://dummyimage.com/200x200/000/fff&text=User",
+        "Status":"Active"
+      },
+      {
+          "id": 4,
+          "name": "Akira",
+          "age": 35,
+          "email": "alice@example.com",
+          "profilePic":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+          "Status":"lastseen - 2022-11-11, 23:00"
+        }
+    ]
+  }
